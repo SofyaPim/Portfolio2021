@@ -342,7 +342,7 @@ article {
 }
 
 .myWorks__content {
-  padding: 0 30px;
+  padding: 5% 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -356,7 +356,6 @@ article {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  height: 100vh;
 }
 
 .myWorks__content h2 {
@@ -380,8 +379,8 @@ article {
 .myWorks__content__gallery .card {
   background-color: #333837;
   width: 22%;
-  margin: 1%;
-  height: 300px;
+  margin: 1% auto;
+  height: 400px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -424,7 +423,7 @@ article {
 .myWorks__content__links a {
   position: relative;
   margin-left: 30px;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 1.5em;
   color: #03201f;
 }
@@ -652,7 +651,6 @@ article {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    height: auto;
   }
   .myWorks__content h2 {
     letter-spacing: 5px;
@@ -707,7 +705,7 @@ article {
     display: block;
     position: relative;
     margin-left: 0px;
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.5em;
     margin-bottom: 30px;
   }

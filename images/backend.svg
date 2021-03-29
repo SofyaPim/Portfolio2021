@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g>
+      <rect x="103.86" y="78.163" width="285.731" height="94.232" style="fill: rgb(15, 13, 13);" rx="7.989" ry="7.989"/>
+      <rect x="128.27" y="103.654" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.092" y="122.662" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.59" y="141.673" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="220.604" y="104.857" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <circle style="fill: rgb(17, 183, 45);" cx="227.419" cy="139.769" r="8.684"/>
+      <circle style="fill: rgb(147, 10, 35);" cx="267.207" cy="138.899" r="9.065"/>
+      <circle style="fill: rgb(221, 17, 17);" cx="312.731" cy="108.308" r="8.619"/>
+      <circle style="fill: rgb(88, 198, 29);" cx="313.109" cy="136.686" r="9.288"/>
+      <circle style="fill: rgb(232, 214, 18);" cx="355.788" cy="106.926" r="9.663"/>
+      <circle style="fill: rgb(203, 217, 12);" cx="357.858" cy="135.137" r="10.138"/>
+      <rect x="138.32" y="174.644" width="228.199" height="7.203" style="fill: rgb(35, 32, 32);"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 2.423887, 104.895515)">
+      <rect x="103.86" y="78.163" width="285.731" height="94.232" style="fill: rgb(15, 13, 13);" rx="7.989" ry="7.989"/>
+      <rect x="128.27" y="103.654" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.092" y="122.662" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.59" y="141.673" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="220.604" y="104.857" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <circle style="fill: rgb(17, 183, 45);" cx="227.419" cy="139.769" r="8.684"/>
+      <circle style="fill: rgb(147, 10, 35);" cx="267.207" cy="138.899" r="9.065"/>
+      <circle style="fill: rgb(221, 17, 17);" cx="312.731" cy="108.308" r="8.619"/>
+      <circle style="fill: rgb(88, 198, 29);" cx="313.109" cy="136.686" r="9.288"/>
+      <circle style="fill: rgb(232, 214, 18);" cx="355.788" cy="106.926" r="9.663"/>
+      <circle style="fill: rgb(203, 217, 12);" cx="357.858" cy="135.137" r="10.138"/>
+      <rect x="138.32" y="174.644" width="228.199" height="7.203" style="fill: rgb(35, 32, 32);"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 2.7625, 210.743515)">
+      <rect x="103.86" y="78.163" width="285.731" height="94.232" style="fill: rgb(15, 13, 13);" rx="7.989" ry="7.989"/>
+      <rect x="128.27" y="103.654" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.092" y="122.662" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="129.59" y="141.673" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <rect x="220.604" y="104.857" width="54.045" height="4.979" style="fill: rgb(216, 216, 216);"/>
+      <circle style="fill: rgb(17, 183, 45);" cx="227.419" cy="139.769" r="8.684"/>
+      <circle style="fill: rgb(147, 10, 35);" cx="267.207" cy="138.899" r="9.065"/>
+      <circle style="fill: rgb(221, 17, 17);" cx="312.731" cy="108.308" r="8.619"/>
+      <circle style="fill: rgb(88, 198, 29);" cx="313.109" cy="136.686" r="9.288"/>
+      <circle style="fill: rgb(232, 214, 18);" cx="355.788" cy="106.926" r="9.663"/>
+      <circle style="fill: rgb(203, 217, 12);" cx="357.858" cy="135.137" r="10.138"/>
+      <rect x="138.32" y="174.644" width="228.199" height="7.203" style="fill: rgb(35, 32, 32);"/>
+    </g>
+  </g>
+</svg>

@@ -294,7 +294,7 @@ article {
 .features__content__wrap .card {
   position: relative;
   background-color: rgba(255, 255, 255, 0.288);
-  margin: 20px;
+  margin: 20px auto;
   padding: 30px;
   border-left: 1px solid white;
   border-bottom: 1px solid white;

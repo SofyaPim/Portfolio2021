@@ -1,27 +1,27 @@
 const gallery = [{
         link: "https://sofyapim.github.io/Loopstudios-landing-page/",
-        photo: "images/Loopstudios.png",
+        photo: "images/Loopstudios.webp",
         alt: "Loopstudios"
 
 
     },
     {
         link: "https://sofyapim.github.io/frontend-mentor-easybank/",
-        photo: "images/easybank.png",
+        photo: "images/easybank.webp",
         alt: "easybank"
 
 
     },
     {
         link: "https://sofyapim.github.io/VolgaFood-webpack/dist/index.html",
-        photo: "images/VolgaFood.png",
+        photo: "images/VolgaFood.webp",
         alt: "VolgaFood"
 
 
     },
     {
         link: " https://sofyapim.github.io/webpackCoach/dist/index.html",
-        photo: "images/Coach.png",
+        photo: "images/Coach.webp",
         alt: "coach"
 
 

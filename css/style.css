@@ -678,8 +678,8 @@ article {
     display: block;
   }
   .myWorks__content__gallery .card a img {
-    width: 300px;
-    height: 600px;
+    width: 100%;
+    height: 100%;
   }
   .myWorks__content__links {
     display: -webkit-box;

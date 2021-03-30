@@ -8,7 +8,7 @@ const galleryCard = [{
 },
 {
     title: "CSS3",
-    text: "iАнимация.Градиенты. Препроцессоры LESS, SASS, переменные и миксины. Flex и Grid для выравнивания элементов.",
+    text: "Анимация. Градиенты. Препроцессоры LESS, SASS, переменные и миксины. Flex и Grid для выравнивания элементов.",
     photo: "images/css.svg",
     alt: "css3"
 

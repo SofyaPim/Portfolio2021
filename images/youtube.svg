@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="-96.568" y="-5.038" width="90.331" height="103.088"/>
+  </defs>
+  <g transform="matrix(1.397429, 0, 0, 1.346895, -155.305267, -250.023544)">
+    <g transform="matrix(1, 0, 0, 1, 115.026451, 38.4879)">
+      <g/>
+      <rect x="-3.89" y="195.756" width="357.8" height="300.855" style="fill: rgb(255, 245, 238); stroke-width: 1.108;" rx="87.424" ry="78.867"/>
+      <path d="M 207.295 75.381 L 284.343 211.118 L 130.246 211.118 L 207.295 75.381 Z" style="fill: rgb(86, 2, 110);" transform="matrix(0.850373, -0.52618, 0.498616, 0.867429, -85.849823, 303.123566)" bx:shape="triangle 130.246 75.381 154.097 135.737 0.5 0 1@5d61d061"/>
+    </g>
+  </g>
+</svg>

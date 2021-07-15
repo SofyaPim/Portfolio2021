@@ -561,8 +561,8 @@ a {
   stroke: #fff5ee;
 }
 
-.footer__content .contact__icons a:hover svg {
-  stroke: #e4e876;
+.footer__content .contact__icons a svg:hover {
+  fill: #e4e876;
 }
 
 .header.red {

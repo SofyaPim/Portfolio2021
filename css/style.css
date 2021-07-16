@@ -622,6 +622,7 @@ a {
   }
   .header {
     padding: 0;
+    background-color: #57026ebd;
   }
   .header .logo {
     margin: 1rem;

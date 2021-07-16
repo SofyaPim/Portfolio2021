@@ -671,12 +671,12 @@ a {
   }
   .features__content__wrap .card {
     position: relative;
-    margin: 1rem auto;
+    margin: 1rem 2.5rem;
     padding: 30px;
     max-width: 70vw;
   }
   .features__content .bottom_text p {
-    padding: 0;
+    padding: 1rem;
   }
   .myWorks {
     height: auto;

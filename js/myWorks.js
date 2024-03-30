@@ -18,13 +18,6 @@ const gallery = [{
         alt: "VolgaFood"
 
 
-    },
-    {
-        link: " https://sofyapim.github.io/webpackCoach/dist/index.html",
-        photo: "images/Coach.webp",
-        alt: "coach"
-
-
     }
 
 ];

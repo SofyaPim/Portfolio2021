@@ -27,14 +27,14 @@ main {
 }
 /* animation */
 #progress {
-  background-color: #55a586;
-  height: 20px;
+  background-color: #9dda84;
+  height: 10px;
   position: fixed;
   top: 0;
   left: 0;
   transform-origin: left center;
   width: 100%;
-  z-index:9;
+  z-index:200;
   
   animation: progress linear;
   animation-timeline: scroll();

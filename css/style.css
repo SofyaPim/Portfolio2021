@@ -25,7 +25,24 @@ main {
   width: 100vw;
   overflow: hidden;
 }
+/* animation */
+#progress {
+  background-color: #55a586;
+  height: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transform-origin: left center;
+  width: 100%;
+  z-index:9;
+  
+  animation: progress linear;
+  animation-timeline: scroll();
+}
 
+@keyframes progress {
+  from { transform: scaleX(0); }
+}
 section {
   padding: 0 4rem;
 }
